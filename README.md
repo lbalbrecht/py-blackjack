@@ -2,7 +2,7 @@
 
 ## Description
 
-A text-based Blackjack game built in Jupyter Notebook
+A text-based Blackjack game built in Jupyter Notebook. Repository contains both the basic game and a more advanced version with CPU players and additional gameplay
 
 ## Usage
 
